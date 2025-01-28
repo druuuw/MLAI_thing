@@ -4,7 +4,7 @@ import time
 
 # Input and output directories
 input_folders = ['./dataset/Dragonfruit','./dataset/Egg','./dataset/Eggplant','./dataset/unknown_drew','./dataset/unknown_manbir','./dataset/unknown_yh']
-output_folder = ['./processed_data/Dragonfruit','./processed_data/Egg','./processed_data/Eggplant','./processed_data/unknown_drew','./processed_data/unknown_manbir','./processed_data/unknown_yh']
+output_folder = ['./processed_data/Processed_Dragonfruit','./processed_data/Processed_Egg','./processed_data/Processed_Eggplant','./processed_data/Processed_Unknown_Drew','./processed_data/Processed_Unknown_Manbir','./processed_data/Processed_Unknown_YH']
 
 # Create output directory if it doesn't exist
 for folder in output_folder:
